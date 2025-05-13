@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Ongoing\\RoleManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88741FB2-0CD2-443F-BB6C-54CF84ADCBEC}|RoleManagement.csproj|c:\\users\\hp\\desktop\\ongoing\\rolemanagement\\rolemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88741FB2-0CD2-443F-BB6C-54CF84ADCBEC}|RoleManagement.csproj|solutionrelative:rolemanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleManagement",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Ongoing\\RoleManagement\\RoleManagement.csproj",
+              "RelativeDocumentMoniker": "RoleManagement.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Ongoing\\RoleManagement\\RoleManagement.csproj*",
+              "RelativeToolTip": "RoleManagement.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T08:41:41.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
